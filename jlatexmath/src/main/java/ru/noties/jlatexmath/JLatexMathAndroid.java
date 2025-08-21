@@ -11,7 +11,7 @@ import java.io.InputStream;
 
 public abstract class JLatexMathAndroid {
 
-    private static final String BASE = "org/scilab/forge/jlatexmath/";
+    private static final String BASE = "";;
 
     @SuppressLint("StaticFieldLeak")
     private static Context sContext = null;
